@@ -1,0 +1,17 @@
+<div id="leaderboard-podium" *ngIf="leaderboard">
+  <app-leaderboard-podium-element id="second-place" class="second-place"
+                                  [result]="leaderboard[1]"
+                                  [logo]="logos[leaderboard[1]['facoltà']]"
+                                  [trophy]="silver_trophy">
+  </app-leaderboard-podium-element>
+  <app-leaderboard-podium-element id="first-place" class="first-place"
+                                  [result]="leaderboard[0]"
+                                  [logo]="logos[leaderboard[0]['facoltà']]"
+                                  [trophy]="gold_trophy">
+  </app-leaderboard-podium-element>
+  <app-leaderboard-podium-element id="third-place" class="third-place"
+                                  [result]="leaderboard[2]"
+                                  [logo]="logos[leaderboard[2]['facoltà']]"
+                                  [trophy]="bronze_trophy">
+  </app-leaderboard-podium-element>
+</div>

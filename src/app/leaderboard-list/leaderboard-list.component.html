@@ -1,0 +1,15 @@
+<div id="leaderboard-list">
+  <app-leaderboard-element *ngFor="let leaderboard of sortArray()">
+    <div class="leaderboard-row">
+      <div class="leaderboard-ranking">
+        <div class="ranking-text">{{leaderboard['posizione']}}°</div>
+      </div>
+      <div class="leaderboard-department">
+        <div class="department-text">{{leaderboard['facoltà']}}</div>
+      </div>
+      <div class="leaderboard-points">
+        <div class="points-text">{{leaderboard['punti']}}</div>
+      </div>
+    </div>
+  </app-leaderboard-element>
+</div>

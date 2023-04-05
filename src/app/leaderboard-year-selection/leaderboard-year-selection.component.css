@@ -1,0 +1,32 @@
+/*#year-selection-div{
+  margin: auto;
+  width: 180px;
+  height: 40px;
+  background-color: rgba(250, 98, 48, 0.2);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: rgb(250, 98, 48);
+}*/
+
+.select-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}
+
+.select-container select{
+  width: auto;
+  height: 2rem;
+  border-radius: 5px;
+  padding-inline: 5px;
+  font-family: "MADE TOMMY";
+  font-size: 20px;
+}
+
+.select-container option{
+  outline: none;
+}
