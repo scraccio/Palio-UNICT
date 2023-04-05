@@ -1,0 +1,16 @@
+.nav-bar-entry{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 20px;
+  -webkit-transition: filter, --webkit-filter 0.3s ease;
+  transition: all 0.3s ease;
+  color: white;
+  gap: 10px;
+}
+
+.nav-bar-entry:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}

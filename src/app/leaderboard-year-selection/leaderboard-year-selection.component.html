@@ -1,0 +1,8 @@
+<div class="select-container">
+  <select name="years" id="palio-year" (change)="onChange($event)">
+    <option value="" disabled selected>Anno del palio</option>
+    <option *ngFor="let year of years" [value]="year">
+      {{year}}
+    </option>
+  </select>
+</div>
