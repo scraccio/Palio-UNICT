@@ -1,0 +1,394 @@
+{
+  "2015": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "267",
+      "posizione" : "7"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "257",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "316",
+      "posizione" : "3"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "285",
+      "posizione" : "6"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "261",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "379",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "204",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "364",
+      "posizione" : "2"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "257",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "290",
+      "posizione" : "5"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "222",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "302",
+      "posizione" : "4"
+    }
+  ],
+  "2016": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "259",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "214",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "294",
+      "posizione" : "5"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "268",
+      "posizione" : "7"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "266",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "373",
+      "posizione" : "2"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "251",
+      "posizione" : "10"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "384",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "297",
+      "posizione" : "4"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "337",
+      "posizione" : "3"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "216",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "275",
+      "posizione" : "6"
+    }
+  ],
+  "2017": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "319",
+      "posizione" : "5"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "259",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "297",
+      "posizione" : "7"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "274",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "270",
+      "posizione" : "10"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "403",
+      "posizione" : "2"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "288",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "431",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "310",
+      "posizione" : "6"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "337",
+      "posizione" : "4"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "243",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Mediazione Linguistica",
+      "punti" : "218",
+      "posizione" : "13"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "346",
+      "posizione" : "3"
+    }
+  ],
+  "2018": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "368",
+      "posizione" : "4"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "262",
+      "posizione" : "13"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "346",
+      "posizione" : "7"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "349",
+      "posizione" : "6"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "347",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "414",
+      "posizione" : "2"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "285",
+      "posizione" : "10"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "479",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "316",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "365",
+      "posizione" : "3"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "280",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Mediazione Linguistica",
+      "punti" : "266",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "349",
+      "posizione" : "6"
+    }
+  ],
+  "2019": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "/",
+      "posizione" : "5"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "/",
+      "posizione" : "13"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "/",
+      "posizione" : "4"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "/",
+      "posizione" : "10"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "/",
+      "posizione" : "7"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "/",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "/",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "/",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "/",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "/",
+      "posizione" : "3"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "/",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Mediazione Linguistica",
+      "punti" : "/",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "/",
+      "posizione" : "6"
+    }
+  ],
+  "2022": [
+    {
+      "facoltà" : "Agraria",
+      "punti" : "343",
+      "posizione" : "4"
+    },
+    {
+      "facoltà" : "Architettura",
+      "punti" : "201",
+      "posizione" : "12"
+    },
+    {
+      "facoltà" : "Economia",
+      "punti" : "335",
+      "posizione" : "5"
+    },
+    {
+      "facoltà" : "Farmacia",
+      "punti" : "318",
+      "posizione" : "6"
+    },
+    {
+      "facoltà" : "Giurisprudenza",
+      "punti" : "250",
+      "posizione" : "10"
+    },
+    {
+      "facoltà" : "Ingegneria",
+      "punti" : "437",
+      "posizione" : "2"
+    },
+    {
+      "facoltà" : "Scienze Umanistiche",
+      "punti" : "268",
+      "posizione" : "9"
+    },
+    {
+      "facoltà" : "Medicina",
+      "punti" : "443",
+      "posizione" : "1"
+    },
+    {
+      "facoltà" : "Scienze della Formazione",
+      "punti" : "225",
+      "posizione" : "11"
+    },
+    {
+      "facoltà" : "Scienze MM.FF.NN.",
+      "punti" : "372",
+      "posizione" : "3"
+    },
+    {
+      "facoltà" : "Scienze Politiche",
+      "punti" : "272",
+      "posizione" : "8"
+    },
+    {
+      "facoltà" : "Mediazione Linguistica",
+      "punti" : "168",
+      "posizione" : "13"
+    },
+    {
+      "facoltà" : "Professioni Sanitarie",
+      "punti" : "292",
+      "posizione" : "7"
+    }
+  ]
+}
